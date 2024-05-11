@@ -1,5 +1,5 @@
 // TODO: Silakan sesuaikan BASE URL dari endpoint Anda
-const BASE_URL = 'YOUR_BASE_URL';
+const BASE_URL = 'https://submissionmlgc-ferrykurniawan.et.r.appspot.com';
 
 const ENDPOINT = {
   predict: `${BASE_URL}/predict`,
